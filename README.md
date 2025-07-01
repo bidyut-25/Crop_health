@@ -75,8 +75,10 @@ Classes used:
 Below are some sample predictions from the trained model.
 
 The model accurately highlights unhealthy crop regions as shown in the generated heatmaps:
-| ![](outputs/output1f.jpg) |
-| ![](outputs/output2f.jpg) |
+
+ ![1.](outputs/output1f.jpg) 
+ 
+ ![2.](outputs/output2f.jpg) 
 
 ---
 
