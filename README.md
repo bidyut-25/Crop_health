@@ -70,6 +70,15 @@ Classes used:
 
 ---
 
+## 🔍 Results & Heatmap Visualization
+
+Below are some sample predictions from the trained model.
+
+The model accurately highlights unhealthy crop regions as shown in the generated heatmaps:
+![](outputs/output1.jpg)
+
+---
+
 ## 👨‍💻 Authors
 
 - Bidyut Supakar  
